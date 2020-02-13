@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Slabo+27px|Sriracha&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/lists.css");
+
+
+
+body {
+	font-family: 'Slabo 27px', serif;
+	font-size: 18px;
+	background-color: rgba(50,50,50,0.5);
+}
+
+h1,h2,h3 {
+	font-family: 'Sriracha', cursive;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+}

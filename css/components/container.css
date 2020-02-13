@@ -1,0 +1,28 @@
+.container {
+	background-color: rgba(100,100,100,0.1);
+	padding: 30px;
+	border-radius: 20px;
+	box-shadow: 0 15px 35px rgba(50,50,93,0.1);
+	margin: 0 auto;
+	margin-bottom: 80px;
+	margin-top: 80px;
+	text-align: center;
+}
+
+
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}

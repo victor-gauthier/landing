@@ -1,0 +1,7 @@
+.list-inline li { 
+	display: inline;
+	padding: 10px;
+	text-align: center;
+	list-style: none;
+	padding-left: 0px; 
+ }
